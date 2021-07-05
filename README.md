@@ -26,3 +26,8 @@ and run `demo.ipynb` to see clustering results with different parameters.
 2. Cartesian and polar (Angle only for provided image) pixel coordinates as 
    additional features;
 3. Ability to choose image channels for clustering algorithm.
+
+# Structure
+
+* `segmentation.py` - contains core clustering algorithm;
+* `demo.ipynb` - contains clustering results with different parameters.
