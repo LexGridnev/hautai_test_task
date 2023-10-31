@@ -20,6 +20,8 @@ pip install -r requirements.txt
 ```
 and run `demo.ipynb` to see clustering results with different parameters.
 
+To deactivate the virtual environment and return to the global Python environment, simply type deactivate.
+
 # Key features
 
 1. KMeans pixel clustering;
