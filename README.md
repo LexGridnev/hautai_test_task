@@ -14,8 +14,8 @@ sudo apt-get upgrade
 sudo apt-get install python3.8 python3.8-dev python3.8-venv
 git clone this repo
 cd into this repo
-python3.8 -m venv venv
-source venv/bin/activate
+python3.8 -m venv hautai_test_task
+source hautai_test_task/bin/activate
 pip install -r requirements.txt
 ```
 and run `demo.ipynb` to see clustering results with different parameters.
