@@ -11,7 +11,7 @@ Please do the following:
 ```
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install python3.8 python3.8-dev python3.8-venv
+sudo apt-get install python3 python3-dev python3-venv
 git clone this repo
 cd into this repo
 python -m venv hautai_test_task
